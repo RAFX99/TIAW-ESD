@@ -4,4 +4,5 @@ const cidades = [
     { cidade: "Maranhão", abreviacao: "maranhao" , link:"maranhao"},
     { cidade: "Santa catarina", abreviacao: "santa" , link:"rio"},
     { cidade: "Rio de Janeiro", abreviacao: "rio" ,link:"rio" },
+    { cidade: "Rio Grande do Sul", abreviacao: "rio" ,link:"rs" },
 ];
